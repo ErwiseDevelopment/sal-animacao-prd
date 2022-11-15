@@ -76,7 +76,7 @@
                                             data-state="<?php echo get_sub_field( 'estado_nossas_paroquias', 'option' ) ?>">
 
                                                 <img
-                                                class="img-fluid"
+                                                class="img-fluid u-object-fit-cover"
                                                 src="<?php echo get_sub_field( 'foto_nossas_paroquias', 'option' ) ?>"
                                                 alt="<?php echo get_sub_field( 'lugar_nossas_paroquias', 'option' ) ?>">
 
